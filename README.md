@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🔵 voidbr-pkgfile-template
+# 🔵 voidbr-i3
 
-**Template for VoidBR pkgmake/pkgfile packages**
+**VoidBR I3 Meta Package**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
