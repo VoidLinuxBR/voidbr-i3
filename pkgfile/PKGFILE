@@ -30,7 +30,7 @@ depends=(
 	alacritty
 	mate-themes
 	gnome-themes-standard
-	voidbr-i3wm-config
+	voidbr-i3-config
 	autotiling
 	azote
 	bumblebee-status
